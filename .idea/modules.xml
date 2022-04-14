@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/DialogBox.iml" filepath="$PROJECT_DIR$/DialogBox.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DidYouKnowApp.iml" filepath="$PROJECT_DIR$/DidYouKnowApp.iml" />
     </modules>
   </component>
 </project>
